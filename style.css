@@ -6,7 +6,28 @@ p{
         font-size:70px;
         color:grey;
 }
+@keyframes swageffect{
+  0%  {color:#ff89ed;}
+ 25%  {color:#f5ff89;}
+ 50%  {color:#538ae2;}
+ 75%  {color:#89ff9d;}
+ 100% {color:#ff89ed;}
+}
+@-webkit-keyframes swageffect{
+    0%  {color:#ff89ed;}
+   25%  {color:#f5ff89;}
+   50%  {color:#538ae2;}
+   75%  {color:#89ff9d;}
+   100% {color:#ff89ed;}
+}
 #first{
-        font-size:70px;
-        color:Blue;
+    -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 1s;
+    animation-name: swageffect;
+    font-size: 60px;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    font-size:70px;
+    color:#538ae2;
 }
