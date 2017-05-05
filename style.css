@@ -1,10 +1,10 @@
 h1{
         font-size:50px;
-        color: brown;
+        color: #f45c42;
 }
 p{
         font-size:70px;
-        color:grey;
+        color:#8b94af;
 }
 @keyframes swageffect{
   0%  {color:#ff89ed;}
