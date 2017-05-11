@@ -43,3 +43,14 @@ p{
         height:auto;
         width:50%;
 }
+#okay{
+        height: auto;
+        width: 20%
+}
+#bye{
+        height: auto;
+        width: 25%;
+}
+body{
+  background-color: #7d97c1;
+}
