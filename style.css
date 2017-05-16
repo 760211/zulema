@@ -5,6 +5,7 @@ h1{
 p{
         font-size:70px;
         color:#5f6268;
+        font-family: 'Gloria Hallelujah', cursive;
 }
 @keyframes swageffect{
   0%  {color:#ff89ed;}
