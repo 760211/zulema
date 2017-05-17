@@ -35,12 +35,13 @@ p{
 #last{
         height:auto;
         width:20%;
+        transform: rotate(150deg);
         margin:150px;
 }
 #hi{
         height:auto;
         width:25%;
-        transform: rotate(270deg);
+        transform: rotate(250deg);
         margin-left: 200px;
 }
 #first{
