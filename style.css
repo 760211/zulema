@@ -36,7 +36,7 @@ p{
         height:auto;
         width:20%;
         transform: rotate(150deg);
-        margin:150px;
+        margin:20px;
 }
 #hi{
         height:auto;
@@ -58,4 +58,9 @@ p{
 }
 body{
   background-color: #7d97c1;
+}
+li{
+        color:#ad6da4;
+        height:auto;
+        width: 25%
 }
