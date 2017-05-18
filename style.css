@@ -43,6 +43,8 @@ p{
 #dog{
         height:auto;
         width:50%;
+        transform: rotate(490);
+        margin-left: 150px;
 }
 #okay{
         height: auto;
