@@ -34,10 +34,12 @@ p{
     color:#538ae2;
 }
 #last{
+        position: relative;
         height:auto;
         width:20%;
-        transform: rotate(150deg);
-        margin:200px;
+        transform: rotate(15deg);
+        margin:490px;
+        top: -110;
 }
 #hi{
         height:auto;
