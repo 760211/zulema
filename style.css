@@ -22,7 +22,7 @@ p{
    75%  {color:#89ff9d;}
    100% {color:#ff89ed;}
 }
-#first{
+#cool{
     -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
     -webkit-animation-duration: 1s;
     animation-name: swageffect;
@@ -33,21 +33,14 @@ p{
     font-size:70px;
     color:#538ae2;
 }
-#last{
-        position: relative;
-        height:auto;
-        width:20%;
-        transform: rotate(15deg);
-        margin-left:490px;
-        top: -110;
-}
-#hi{
+
+#cat{
         height:auto;
         width:25%;
         transform: rotate(250deg);
         margin-left: 200px;
 }
-#first{
+#dog{
         height:auto;
         width:50%;
 }
@@ -67,6 +60,9 @@ li{
         height:auto;
         width: 25%
 }
-p{
+#pie{
+        margin-left: 10px;
+}
+#cake{
         margin-left: 10px;
 }
