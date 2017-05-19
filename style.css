@@ -38,13 +38,13 @@ p{
         height:auto;
         width:20%;
         transform: rotate(25deg);
-        margin-left: 400px;
+        margin-left: 500px;
 }
 #dog{
         height:auto;
         width:20%;
         transform: rotate(250deg);
-        margin-left: 150px;
+        margin-left: 250px;
 }
 #okay{
         height: auto;
