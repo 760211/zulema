@@ -37,13 +37,13 @@ p{
 #cat{
         height:auto;
         width:25%;
-        transform: rotate(250deg);
-        margin-left: 200px;
+        transform: rotate(25deg);
+        margin-left: 400px;
 }
 #dog{
         height:auto;
-        width:50%;
-        transform: rotate(490deg);
+        width:25%;
+        transform: rotate(250deg);
         margin-left: 150px;
 }
 #okay{
