@@ -86,7 +86,8 @@ li{
 #hi{
       height: auto;
       width: 20%;
-        transform: rotate(250deg);
+        transform: rotate(270deg);
+        margin-left: 10px;
 
 }
 #first{
