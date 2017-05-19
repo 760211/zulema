@@ -86,8 +86,10 @@ li{
 #hi{
       height: auto;
       width: 20%;
+        transform: rotate(250deg);
+
 }
-#frist{
+#first{
       height: auto;
       witdth: 20%;
 
