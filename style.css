@@ -79,6 +79,19 @@ li{
 #puppy{
         color:#ef53c0;
 }
+#last{
+        height: auto;
+        width: 20%;
+}
+#hi{
+      height: auto;
+      width: 20%;
+}
+#frist{
+      height: auto;
+      witdth: 20%;
+
+}
 @keyframes swageffect{
   0%  {color:#ff89ed;}
  25%  {color:#f5ff89;}
